@@ -1,4 +1,4 @@
-# Vrfy-Air-Sea-Interface
+# Marine-Analysis-Verification
 Software to do quick analyses/verifications of experiments
 
 How to use the tools:
